@@ -14,11 +14,13 @@ After you connect every according to this schematics upload the code to arduino,
 
 Use this software to creat a MIDI port in windows
 https://www.tobias-erichsen.de/software/loopmidi.html
+
 <img src="./Img/loopMIDI.png" width="500">
 
 
 Then use this software to connect arduino port to MIDI port
 https://projectgus.github.io/hairless-midiserial/
+
 <img src="./Img/Hairless MIDI.png" width="500">
 
 Now enjoy your new USB MIDI keybord...
