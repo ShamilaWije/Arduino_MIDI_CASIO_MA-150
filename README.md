@@ -10,7 +10,7 @@ But in this case you don't have to use diodes becouse keybord PCB already includ
 
 <img src="./Schematics/schematic_1.png" width="600">
 
-After you connect every according to this schematics upload the code to arduino,
+After you connect everything according to this schematics upload the code to arduino,
 
 Use this software to creat a MIDI port in windows
 https://www.tobias-erichsen.de/software/loopmidi.html
